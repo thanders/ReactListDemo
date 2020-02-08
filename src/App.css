@@ -1,0 +1,18 @@
+.App {
+  margin: 16px;
+}
+
+.SolutionOne{
+  display: inline-block;
+  padding: 20px;
+  border: solid black;
+}
+div{
+  margin: 20px;
+}
+
+input{
+  margin: 20px;
+  padding: 10px;
+}
+
